@@ -14,7 +14,6 @@ phpMyAdmin is used for sign-up/login functionality, storing player scores in a s
     NetBeans: IDE for Java development.
 
 ----------------------------------------------------------------------------------------
-
 ## 📷 Screenshots
 
 ***Game Play***
@@ -34,7 +33,6 @@ phpMyAdmin is used for sign-up/login functionality, storing player scores in a s
   ![image](https://github.com/user-attachments/assets/ef1e22d5-2edb-4c0b-8d73-9a899b16b022)
 
 ----------------------------------------------------------------------------------------
-
 ## ⚙️ Setup Instructions
 
 Clone the repository:
