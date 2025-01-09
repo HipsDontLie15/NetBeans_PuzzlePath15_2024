@@ -1,4 +1,4 @@
-## Description
+## 📒 Description
 
 A family-friendly NetBeans game designed for kids to enhance problem-solving and critical thinking skills, built using OOP principles. Developed as part of a Visual Programming course during my Bachelor of Computer Science, using Apache NetBeans.
 
@@ -6,8 +6,16 @@ The game is a number puzzle, where players must sort numbers in ascending order 
 
 phpMyAdmin is used for sign-up/login functionality, storing player scores in a simple scoreboard. The scoreboard tracks the username, best completion time, number of moves taken, and the date/time of play, inspired by classic arcade games. Players can compete based on their performance.
 
+----------------------------------------------------------------------------------------
+## 🚀 Technologies Used
 
-## Screenshots
+    JAVA: For game development using OOP principles.
+    SQL (via phpMyAdmin): For user management and storing player scores.
+    NetBeans: IDE for Java development.
+
+----------------------------------------------------------------------------------------
+
+## 📷 Screenshots
 
 ***Game Play***
 
@@ -24,3 +32,19 @@ phpMyAdmin is used for sign-up/login functionality, storing player scores in a s
 ***Scoreboard***
 
   ![image](https://github.com/user-attachments/assets/ef1e22d5-2edb-4c0b-8d73-9a899b16b022)
+
+----------------------------------------------------------------------------------------
+
+## ⚙️ Setup Instructions
+
+Clone the repository:
+
+    git clone https://github.com/HipsDontLie15/NetBeans_PuzzlePath15_2024.git
+
+Set up the database:
+
+    Open phpMyAdmin and import the database.sql file to create the necessary tables.
+
+Run the application:
+
+    You can run the project on a local server such as XAMPP or WAMP.
